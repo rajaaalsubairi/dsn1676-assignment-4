@@ -1,0 +1,14 @@
+h1{
+    color: lightblue;
+    background-color: gray;
+    padding: 1em;
+}
+
+dl {
+    color: pink;
+    margin: 1em 0 3em 2em;
+}
+
+dd {
+    color: gray;
+}
