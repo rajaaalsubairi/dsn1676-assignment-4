@@ -22,7 +22,6 @@ var currant = {
     protein: 1.4
 };
 
-
 var writeFruit = function (fruit) {
     document.write('<h1>' + fruit.fullName + '</h1>');
     
